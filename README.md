@@ -1,10 +1,10 @@
-#Free-Way JS
+# Free-Way JS
 
 Este é um projeto simples criado com HTML, CSS e JavaScript puro. O objetivo é simular o jogo clássico Free-Way, lançado pela Atari em 1981.
 
 O jogo consiste em atravessar uma estrada movimentada, desviando dos carros que se aproximam. O jogador controla um personagem que pode se mover para cima, para baixo, para a esquerda e para a direita. Se o jogador colidir com um carro, ele perde uma vida. O objetivo é atravessar a estrada sem colidir e chegar ao outro lado com o maior número de vidas possível.
 
-#Como jogar
+# Como jogar
 
 Para jogar o Free-Way JS, basta acessar a página index.html no seu navegador. O jogo será iniciado automaticamente e você poderá começar a jogar.
 
